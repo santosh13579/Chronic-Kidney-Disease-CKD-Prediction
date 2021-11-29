@@ -1,10 +1,10 @@
 
-**Chronic-Kidney-Diseases-Prediction* (CKD) implements ML algorithm- Random Forest for classification. 
+**Chronic-Kidney-Diseases-Prediction* (CKD) implements ML algorithm- Random Forest for classification. Simple webapp is developed using Flask. The models is usedto predict the diseases based on the  trained model on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. 
 
 In this project:
 - Identify risk factors for CKD 
 - Predict potential CKD subtypes
-*****Simple webapp is developed using Flask Framework. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict weather the CKD is present or not. 
+
 ## Installation Instruction
 
 ### Window 
