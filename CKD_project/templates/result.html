@@ -1,0 +1,28 @@
+{% extends 'main.html' %}
+
+{% block body %}
+
+<div class='container'>
+    <table class='table table-bordered table-condensed table-responsive'>
+        <h3>Result (Risk factors for CKD and potential subtypes)</h3>
+        <tr>
+		<tr>
+		<th> 1.The features that increase risk factors for CKD (Decreasing order) :<th> 
+		<tr>
+		<tr>
+		 <td>{{risky}}<td>
+		 
+		<tr>
+		<tr>
+         <th>2.Prediction:</th>
+            <!-- <th>Inference</th> -->
+        </tr>
+        <tr>
+            <td>{{ pred }}</td>
+        </tr>
+		
+   
+    </table>
+</div>
+
+{% endblock %}

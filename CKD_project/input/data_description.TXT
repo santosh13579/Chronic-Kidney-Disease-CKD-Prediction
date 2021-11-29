@@ -1,0 +1,25 @@
+cols
+age
+blood pressure
+specific gravity
+albumin
+sugar
+rred blood cells
+pus cell
+pus cell clumps
+bacteria
+blood glucose random
+blood urea
+serum creatinine
+sodium
+potassium
+hemoglobin
+packed cell volume
+white blood cell count
+red blood cell count
+hypertension
+diabetes mellitus
+coronary artery disease
+appetite
+pedal edema
+anemia
