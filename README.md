@@ -6,8 +6,7 @@ In this project:
 - Identify risk factors for CKD 
 
 - Predict potential CKD subtypes
-
-
+Simple webapp is developed using Flask Framework. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict weather the CKD is present or not. 
 ## Installation Instruction
 
 ### Window 
